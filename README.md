@@ -1,5 +1,3 @@
-![Banner](link-da-imagem-aqui)
-
 # 👋 Olá, eu sou o William dos Santos Rodrigues  
 ### Desenvolvedor Java | Full Stack | Estudante de TI  
 
