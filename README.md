@@ -1,12 +1,14 @@
-# Oi 👋 Eu sou o William dos Santos Rodrigues
+# 👋 Olá, eu sou o William dos Santos Rodrigues  
+
+> 💻 "Transformando ideias em soluções práticas com código."  
 
 ---
 
 ## 💡 Sobre mim
 - 🌍 Sou de Ceilândia Norte, DF  
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-- 💻 Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac  
-- 📚 Adoro aprender sobre os mais variados assuntos  
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+- 💻 Atualmente cursando **Técnico em Desenvolvimento de Sistemas** no Senac  
+- 📚 Apaixonado por tecnologia e aprendizado contínuo  
 
 ---
 
@@ -20,7 +22,28 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-</div>
+</div>  
+
+### 🔧 Tecnologias que uso no dia a dia:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque
+- 🏥 [**ClinicaApp**](https://github.com/William-Willam/ClinicaApp) – Sistema de clínica em Java com MySQL  
+- 🍔 [**HamburgueriaApp**](https://github.com/William-Willam/HamburgueriaApp) – Sistema de pedidos em Java Swing (MVC + DAO)  
+- 🌐 [**Portfólio Web**](https://github.com/William-Willam/Portfolio) – Meu site pessoal com HTML, CSS e JavaScript  
+
+---
+
+## 🛣️ Minha Jornada
+- 🎓 2022 – Concluí **Análise e Desenvolvimento de Sistemas**  
+- 📘 2024 – Iniciei **Técnico em Desenvolvimento de Sistemas (Senac)**  
+- 🚀 2025 – Projetos focados em **Java, Spring Boot e aplicações Desktop/Web**  
 
 ---
 
@@ -34,10 +57,9 @@
 
 ---
 
-## 📬 Entre em contato comigo
-<div>
-  <a href="https://www.linkedin.com/in/wsdr96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:williambfs2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+## 🤝 Vamos conversar!
+- 💼 [LinkedIn](https://www.linkedin.com/in/wsdr96/)  
+- 📧 [E-mail](mailto:williambfs2011@gmail.com)  
 
 ---
+✨ Sempre aberto a novas conexões e oportunidades de aprendizado!
