@@ -1,4 +1,7 @@
+![Banner](link-da-imagem-aqui)
+
 # 👋 Olá, eu sou o William dos Santos Rodrigues  
+### Desenvolvedor Java | Full Stack | Estudante de TI  
 
 > 💻 "Transformando ideias em soluções práticas com código."  
 
@@ -7,7 +10,7 @@
 ## 💡 Sobre mim
 - 🌍 Sou de Ceilândia Norte, DF  
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
-- 💻 Atualmente cursando **Técnico em Desenvolvimento de Sistemas** no Senac  
+- 💻 Atualmente cursando **Técnico em Desenvolvimento de Sistemas** no Senac-DF  
 - 📚 Apaixonado por tecnologia e aprendizado contínuo  
 
 ---
@@ -24,7 +27,7 @@
   <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 </div>  
 
-### 🔧 Tecnologias que uso no dia a dia:
+### 🔧 Tecnologias que uso no dia a dia
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,16 +37,17 @@
 ---
 
 ## 📌 Projetos em Destaque
-- 🏥 [**Funerária Web**](https://github.com/William-Willam/Projetos-Senac/tree/main/funerari-web) – Sistema Web de funerária usando React, Node.js, NOSQL(firebase)  
-- 🍔 [**HamburgueriaApp**](https://github.com/William-Willam/Projetos-Senac/tree/main/Java/HamburgueriaSystem) – Sistema de pedidos em Java Swing (MVC + DAO)  
-- 🌐 [**Portfólio Web**](https://github.com/William-Willam/meuportifolio) – Meu site pessoal com HTML, CSS e JavaScript  
-- 🚗 [**DF-Vistorias**](https://github.com/2025-08-53/Df_Vist-ria) – Sistema de Vistoria em Java Swing (Mvc + DAO)
+- 🏥 [**Funerária Web**](https://github.com/William-Willam/Projetos-Senac/tree/main/funerari-web) – Sistema Web usando **React, Node.js e Firebase**  
+- 🍔 [**HamburgueriaApp**](https://github.com/William-Willam/Projetos-Senac/tree/main/Java/HamburgueriaSystem) – Sistema de pedidos em **Java Swing (MVC + DAO)**  
+- 🌐 [**Portfólio Web**](https://github.com/William-Willam/meuportifolio) – Site pessoal feito com **HTML, CSS e JavaScript**  
+- 🚗 [**DF-Vistorias**](https://github.com/2025-08-53/Df_Vist-ria) – Sistema de vistorias em **Java Swing (MVC + DAO)**  
+
 ---
 
 ## 🛣️ Minha Jornada
 - 🎓 2023 – Concluí **Análise e Desenvolvimento de Sistemas**  
 - 📘 2025 – Iniciei **Técnico em Desenvolvimento de Sistemas (Senac-DF)**  
-- 🚀 2025 – Projetos focados em **Java, Spring Boot e aplicações Desktop/Web**  
+- 🚀 2025 – Desenvolvendo projetos com foco em **Java, Spring Boot e aplicações Desktop/Web**  
 
 ---
 
