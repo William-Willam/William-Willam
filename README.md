@@ -34,15 +34,15 @@
 ---
 
 ## 📌 Projetos em Destaque
-- 🏥 [**ClinicaApp**](https://github.com/William-Willam/ClinicaApp) – Sistema de clínica em Java com MySQL  
-- 🍔 [**HamburgueriaApp**](https://github.com/William-Willam/HamburgueriaApp) – Sistema de pedidos em Java Swing (MVC + DAO)  
-- 🌐 [**Portfólio Web**](https://github.com/William-Willam/Portfolio) – Meu site pessoal com HTML, CSS e JavaScript  
+- 🏥 [**Funerária Web**](funerariasenac.web.app) – Sistema de clínica em Java com MySQL  
+- 🍔 [**HamburgueriaApp**](https://github.com/William-Willam/Projetos-Senac/tree/main/Java/HamburgueriaSystem) – Sistema de pedidos em Java Swing (MVC + DAO)  
+- 🌐 [**Portfólio Web**](william-willam.github.io/meuportifolio/) – Meu site pessoal com HTML, CSS e JavaScript  
 
 ---
 
 ## 🛣️ Minha Jornada
-- 🎓 2022 – Concluí **Análise e Desenvolvimento de Sistemas**  
-- 📘 2024 – Iniciei **Técnico em Desenvolvimento de Sistemas (Senac)**  
+- 🎓 2023 – Concluí **Análise e Desenvolvimento de Sistemas**  
+- 📘 2025 – Iniciei **Técnico em Desenvolvimento de Sistemas (Senac-DF)**  
 - 🚀 2025 – Projetos focados em **Java, Spring Boot e aplicações Desktop/Web**  
 
 ---
