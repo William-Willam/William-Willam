@@ -62,18 +62,6 @@
 
 > 🔧 Projetos em andamento utilizando **Java + Spring Boot + Angular + PostgreSQL + Docker + AWS**
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=William-Willam&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Willam&layout=compact&theme=radical&cache_seconds=86400)
-
-</div>
-
----
 
 ## 🛣️ Minha Jornada
 - 🎓 **2023** – Conclusão de Análise e Desenvolvimento de Sistemas  
