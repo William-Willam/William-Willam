@@ -3,25 +3,31 @@
 
 > 💻 Transformando conhecimento em soluções práticas através do desenvolvimento de software.
 
+<div align="center">
+  <img src="https://via.placeholder.com/800x200/000000/FFFFFF?text=Bem-vindo+ao+meu+perfil" alt="Banner do Perfil" width="100%">
+</div>
+
 ---
 
 ## 👨‍💻 Sobre mim
+Olá! Sou William, um desenvolvedor Full Stack apaixonado por criar soluções inovadoras. Com experiência em Java e Angular, estou sempre em busca de novos desafios para evoluir minhas habilidades.
+
 - 📍 Ceilândia Norte – DF  
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**  
 - 📘 Cursando **Técnico em Desenvolvimento de Sistemas** no **Senac-DF**  
 - 🚀 Em constante evolução na área de **Desenvolvimento Full Stack e Cloud**  
-- 📚 Foco em boas práticas, arquitetura, versionamento e deploy
+- 📚 Foco em boas práticas, arquitetura, versionamento e deploy  
 
 ---
 
 ## 🧠 Atualmente estudando e praticando
-- ☕ **Java** (POO, JDBC, MVC, DAO, Spring Boot)
-- 🌐 **Angular** (componentes, services, rotas, consumo de API REST)
-- 🗄️ **PostgreSQL** (modelagem relacional, SQL, integração com Java)
-- 🗄️ **MySQL** (persistência de dados e relacionamentos)
-- 🐳 **Docker** (containers, Dockerfile, Docker Compose)
-- 🔧 **Git & GitHub** (versionamento, branches, commits e colaboração)
-- ☁️ **AWS** (fundamentos de cloud, EC2, deploy de aplicações)
+- ☕ **Java** (POO, JDBC, MVC, DAO, Spring Boot)  
+- 🌐 **Angular** (componentes, services, rotas, consumo de API REST)  
+- 🗄️ **PostgreSQL** (modelagem relacional, SQL, integração com Java)  
+- 🗄️ **MySQL** (persistência de dados e relacionamentos)  
+- 🐳 **Docker** (containers, Dockerfile, Docker Compose)  
+- 🔧 **Git & GitHub** (versionamento, branches, commits e colaboração)  
+- ☁️ **AWS** (fundamentos de cloud, EC2, deploy de aplicações)  
 
 ---
 
@@ -48,17 +54,19 @@
 ---
 
 ## 📌 Projetos em Destaque
-- 🏥 **Funerária Web**  
-  Sistema web com **React, Node.js e Firebase**, focado em gestão e pedidos.
+Aqui estão alguns dos meus projetos mais relevantes. Clique nos links para explorar o código!
 
-- 🍔 **HamburgueriaApp**  
-  Sistema desktop em **Java Swing**, utilizando **MVC + DAO + MySQL**.
+- 🏥 **[Sistema Web para Funerária](https://github.com/William-Willam/funeraria-web)**  
+  Sistema web com **React, Node.js e Firebase**, focado em gestão e pedidos. (Substitua pelo link real)
 
-- 🚗 **DF-Vistorias**  
-  Sistema de vistorias veiculares em **Java Swing**, com persistência em banco de dados.
+- 🍔 **[HamburgueriaApp](https://github.com/William-Willam/hamburgueria-app)**  
+  Sistema desktop em **Java Swing**, utilizando **MVC + DAO + MySQL**. (Substitua pelo link real)
 
-- 🌐 **Portfólio Web**  
-  Site pessoal desenvolvido com **HTML, CSS e JavaScript**.
+- 🚗 **[DF-Vistorias](https://github.com/William-Willam/df-vistorias)**  
+  Sistema de vistorias veiculares em **Java Swing**, com persistência em banco de dados. (Substitua pelo link real)
+
+- 🌐 **[Portfólio Web](https://github.com/William-Willam/portfolio-web)**  
+  Site pessoal desenvolvido com **HTML, CSS e JavaScript**. (Substitua pelo link real)
 
 > 🔧 Projetos em andamento utilizando **Java + Spring Boot + Angular + PostgreSQL + Docker + AWS**
 
@@ -79,13 +87,20 @@
 - 🎓 **2023** – Conclusão de Análise e Desenvolvimento de Sistemas  
 - 📘 **2025** – Técnico em Desenvolvimento de Sistemas (Senac-DF)  
 - 🚀 **2025** – Foco em Full Stack Java, Angular, Docker e Cloud Computing  
+- 🎯 **Objetivos Futuros:** Obter certificações em AWS e contribuir para projetos open-source.
 
 ---
 
 ## 🤝 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/wsdr96/)
-- 📧 [E-mail](mailto:williambfs2011@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/wsdr96/)  
+- 📧 [E-mail](mailto:williambfs2011@gmail.com)  
+- 🌐 [Portfólio Online](https://seu-site.com) (Adicione se tiver)  
 
 ---
 
-✨ Sempre aberto a aprender, evoluir e colaborar em novos projetos!
+## 💡 Vamos Colaborar?
+Estou sempre aberto a aprender, evoluir e colaborar em novos projetos! Se você tem uma ideia ou oportunidade, entre em contato. Vamos construir algo incrível juntos! 🚀
+
+---
+
+*Última atualização: [Data Atual]*  
