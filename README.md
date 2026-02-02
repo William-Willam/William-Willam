@@ -17,7 +17,7 @@
 ## 🧠 Atualmente estudando e praticando
 - ☕ **Java** (POO, JDBC, MVC, DAO, Spring Boot)
 - 🌐 **Angular** (componentes, services, rotas, consumo de API REST)
-- 🗄️ **PostgreSQL** (modelagem relacional, consultas SQL, integração com Java)
+- 🗄️ **PostgreSQL** (modelagem relacional, SQL, integração com Java)
 - 🗄️ **MySQL** (persistência de dados e relacionamentos)
 - 🐳 **Docker** (containers, Dockerfile, Docker Compose)
 - 🔧 **Git & GitHub** (versionamento, branches, commits e colaboração)
@@ -26,6 +26,7 @@
 ---
 
 ## 🚀 Tecnologias
+
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -34,8 +35,8 @@
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### DevOps & Cloud
@@ -63,20 +64,21 @@
 
 ---
 
+## 📊 GitHub Stats
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=William-Willam&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Willam&layout=compact&theme=radical&cache_seconds=86400)
+
+</div>
+
+---
+
 ## 🛣️ Minha Jornada
 - 🎓 **2023** – Conclusão de Análise e Desenvolvimento de Sistemas  
 - 📘 **2025** – Técnico em Desenvolvimento de Sistemas (Senac-DF)  
 - 🚀 **2025** – Foco em Full Stack Java, Angular, Docker e Cloud Computing  
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/William-Willam">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=William-Willam&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Willam&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
 
 ---
 
