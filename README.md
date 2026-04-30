@@ -1,90 +1,92 @@
 <div align="center">
 
-# 👨‍💻 William Rodrigues
+# William Rodrigues
 
-**Full Stack Java Developer**
+**Desenvolvedor Backend Java**
 
-🚀 Java • Spring Boot • Angular • APIs REST • Docker  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/wsdr96/)  
 📧 williambfs2011@gmail.com  
-
----
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=William-Willam&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Willam&layout=compact&theme=tokyonight&hide_border=true"/>
+🔗 https://www.linkedin.com/in/wsdr96/
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre
 
-Desenvolvedor focado no ecossistema Java, criando aplicações completas com **Spring Boot + Angular**, aplicando boas práticas como arquitetura em camadas, autenticação JWT e integração com banco de dados.
+Desenvolvedor com foco em backend Java utilizando **Spring Boot**, experiência na construção de APIs REST, autenticação com JWT e integração com bancos relacionais.
 
----
-
-## ⚙️ Stack principal
-
-### 🧠 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### ☁️ DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+Possuo conhecimento em desenvolvimento full stack, mas com direcionamento profissional voltado para backend.
 
 ---
 
-## 📌 Projetos
+## Competências Técnicas
 
-### 🔷 [TaskFlow](https://github.com/William-Willam/TaskFlow)
-Sistema de gerenciamento de tarefas com autenticação JWT e Kanban.
+**Backend**
+- Java  
+- Spring Boot  
+- APIs REST  
+- JPA / Hibernate  
+- Spring Security (básico)  
+- JWT  
 
-`Spring Boot · Angular · MySQL · Docker`
+**Banco de Dados**
+- MySQL  
+- PostgreSQL  
 
----
-
-### 👟 [ShoeStock](https://github.com/William-Willam/Calcados)
-Sistema completo com integração entre API, desktop e web.
-
-`Spring Boot · PostgreSQL · JavaFX · Angular`
-
----
-
-### 🏥 [Funerária Web](https://github.com/William-Willam/Projetos-Senac/tree/main/funerari-web)
-Sistema de gestão de serviços funerários.
-
-`React · Node.js · Firebase`
+**Ferramentas**
+- Git / GitHub  
+- Docker  
+- Linux (básico)  
 
 ---
 
-### 🚗 [DF Vistorias](https://github.com/William-Willam/DF-Vistoria)
-Sistema de vistorias com persistência em banco.
+## Projetos Relevantes
+
+### TaskFlow  
+🔗 https://github.com/William-Willam/TaskFlow  
+
+- API REST com Spring Boot  
+- Autenticação JWT  
+- Estrutura em camadas  
+- Integração com MySQL  
 
 ---
 
-### 🐍 [Jogo da Cobrinha](https://github.com/William-Willam/JogodaCobra)
-Projeto clássico para prática de lógica.
+### ShoeStock  
+🔗 https://github.com/William-Willam/Calcados  
+
+- API centralizada com Spring Boot  
+- Integração com PostgreSQL  
+- Controle de acesso por perfil  
+- Integração com aplicações desktop e web  
 
 ---
 
-## 📚 Em evolução
+### DF Vistorias  
+🔗 https://github.com/William-Willam/DF-Vistoria  
 
-- Spring Security + JWT  
-- Arquitetura REST  
-- Docker e deploy  
-- AWS  
+- Sistema Java com persistência em banco  
+- Operações CRUD completas  
 
 ---
 
-<div align="center">
+### Funerária Web  
+🔗 https://github.com/William-Willam/Projetos-Senac/tree/main/funerari-web  
 
-⭐ Dá uma estrela nos projetos que curtir!
+- Aplicação full stack  
+- Integração frontend e backend  
 
-</div>
+---
+
+## Formação
+
+- Análise e Desenvolvimento de Sistemas  
+- Técnico em Desenvolvimento de Sistemas (em andamento)  
+
+---
+
+## Objetivo
+
+Atuar como desenvolvedor backend Java, contribuindo com APIs escaláveis, seguras e bem estruturadas.
+
+---
