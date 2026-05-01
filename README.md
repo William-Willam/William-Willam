@@ -128,8 +128,8 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=William-Willam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Willam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=William-Willam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="160" src="https://streak-stats.demolab.com?user=William-Willam&theme=tokyonight&hide_border=true&locale=pt_BR" />
 
 </div>
 
