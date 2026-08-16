@@ -18,7 +18,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **Técnico em Desenvolvimento de Sistemas no Senac-DF**. Construo aplicações completas com Java, Spring Boot, Angular e JavaFX, sempre com foco em arquitetura limpa, boas práticas e evolução contínua.
+Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de Sistemas**, atualmente cursando **Técnico em Desenvolvimento de Sistemas no Senac-DF** e **Engenharia de Software** (faculdade GRAN). Construo aplicações completas com Java, Spring Boot, Angular, React e JavaFX, sempre com foco em arquitetura limpa, boas práticas e evolução contínua.
+
+💼 Atualmente em Suporte Técnico N1 na Autotrac, também atuando em testes de sistema — buscando oportunidade como desenvolvedor.
 
 📍 Ceilândia Norte — Brasília, DF
 
@@ -38,6 +40,7 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,6 +62,16 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
   <tr>
     <td width="50%" valign="top">
 
+### 🚗 AutoVistor
+> Sistema completo de vistoria veicular: backend Spring Boot com módulo financeiro (pagamentos, boletos, notas fiscais), desktop JavaFX para gerente/vistoriador e laudos em PDF.
+
+**Stack:** Java 21 · Spring Boot 4 · JavaFX · MySQL · JWT · Flyway · PDFBox
+
+[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam)
+
+  </td>
+    <td width="50%" valign="top">
+
 ### 📋 TaskFlow
 > Gerenciador de tarefas full stack com autenticação JWT e controle de acesso por papel de usuário.
 
@@ -67,6 +80,8 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
 [![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/TaskFlow)
 
   </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
 ### 👟 ShoeStock
@@ -75,6 +90,38 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
 **Stack:** Java 22 · Spring Boot · JavaFX · Angular 17 · PostgreSQL · JWT
 
 [![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/Calcados)
+
+  </td>
+    <td width="50%" valign="top">
+
+### 💈 Barbearia
+> Sistema web de agendamento para barbearia, com cadastro de clientes, serviços e horários, e regras de negócio para evitar conflito de agendamento.
+
+**Stack:** Java · Spring Boot · Thymeleaf · MySQL
+
+[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam)
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### ⛅ Sistema Meteorológico
+> Aplicação desktop que consulta o clima por cidade/estado no Brasil, com imagens de fundo dinâmicas conforme a condição climática e o período (dia/noite).
+
+**Stack:** Java · JavaFX · Scene Builder · OpenWeatherMap API · IBGE API
+
+[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam)
+
+  </td>
+    <td width="50%" valign="top">
+
+### 🧮 Calculadora
+> Calculadora desktop com interface no Scene Builder, tema visual estilo iOS e atalhos de teclado.
+
+**Stack:** Java · JavaFX · Scene Builder
+
+[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/Calculadora)
 
   </td>
   </tr>
@@ -92,7 +139,7 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
     <td width="50%" valign="top">
 
 ### 🚗 DF-Vistorias
-> Sistema de vistorias veiculares com cadastro e persistência em banco de dados relacional.
+> Sistema de vistorias veiculares com cadastro e persistência em banco de dados relacional — projeto de conclusão de curso.
 
 **Stack:** Java Swing · MySQL
 
@@ -141,9 +188,11 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
 ## 🎓 Formação & Trajetória
 
 ```
-2023  ──  Graduação em Análise e Desenvolvimento de Sistemas
+2023  ──  Graduação em Análise e Desenvolvimento de Sistemas · Uniplan
 2025  ──  Técnico em Desenvolvimento de Sistemas · Senac-DF  (em curso)
 2025  ──  Aprofundamento em Full Stack Java, Angular, Docker e AWS
+2026  ──  Graduação em Engenharia de Software · GRAN  (em curso)
+2026  ──  Suporte Técnico N1 na Autotrac, atuando também em testes de sistema
 ```
 
 ---
