@@ -150,10 +150,10 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
   <tr>
     <td width="50%" valign="top">
 
-### 🍔 HamburgueriaApp
-> Aplicação desktop para controle de pedidos com arquitetura MVC e padrão DAO.
+### 🍔 Sales Manager
+> Sistema de vendas para lanchonete: app desktop com cards de produto para o atendente, e dashboard web em React para o gerente acompanhar vendas. *(em desenvolvimento)*
 
-**Stack:** Java Swing · MVC · DAO · MySQL
+**Stack:** Java · Spring Boot · JavaFX · React · MySQL · Flyway · JWT
 
   </td>
     <td width="50%" valign="top">
