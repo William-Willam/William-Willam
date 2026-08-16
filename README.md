@@ -67,7 +67,7 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
 
 **Stack:** Java 21 · Spring Boot 4 · JavaFX · MySQL · JWT · Flyway · PDFBox
 
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam)
+[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/ProjetoVistoria)
 
   </td>
     <td width="50%" valign="top">
@@ -191,9 +191,7 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
 
 ```
 2023  ──  Graduação em Análise e Desenvolvimento de Sistemas · Uniplan
-2025  ──  Técnico em Desenvolvimento de Sistemas · Senac-DF  (em curso)
 2025  ──  Aprofundamento em Full Stack Java, Angular, Docker e AWS
-2026  ──  Graduação em Engenharia de Software · GRAN  (em curso)
 2026  ──  Suporte Técnico N1 na Autotrac, atuando também em testes de sistema
 ```
 
