@@ -99,7 +99,7 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
 
 **Stack:** Java · Spring Boot · Thymeleaf · MySQL
 
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam)
+[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/Barbearia)
 
   </td>
   </tr>
@@ -111,7 +111,7 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
 
 **Stack:** Java · JavaFX · Scene Builder · OpenWeatherMap API · IBGE API
 
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam)
+[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/Sistema-Meterologico)
 
   </td>
     <td width="50%" valign="top">
@@ -154,6 +154,8 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
 > Sistema de vendas para lanchonete: app desktop com cards de produto para o atendente, e dashboard web em React para o gerente acompanhar vendas. *(em desenvolvimento)*
 
 **Stack:** Java · Spring Boot · JavaFX · React · MySQL · Flyway · JWT
+
+[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/SalesManager)
 
   </td>
     <td width="50%" valign="top">
