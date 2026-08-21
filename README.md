@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de Sistemas**, atualmente cursando **Técnico em Desenvolvimento de Sistemas no Senac-DF** e **Engenharia de Software** (faculdade GRAN). Construo aplicações completas com Java, Spring Boot, Angular, React e JavaFX, sempre com foco em arquitetura limpa, boas práticas e evolução contínua.
+Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de Sistemas**. Meu aprendizado hoje é focado na prática: construo projetos completos com Java, Spring Boot, Angular, React e JavaFX, sempre com foco em arquitetura limpa, boas práticas e evolução contínua.
 
 💼 Atualmente em Suporte Técnico N1 na Autotrac, também atuando em testes de sistema — buscando oportunidade como desenvolvedor.
 
@@ -151,7 +151,7 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
     <td width="50%" valign="top">
 
 ### 🍔 Sales Manager
-> Sistema de vendas para lanchonete: app desktop com cards de produto para o atendente, e dashboard web em React para o gerente acompanhar vendas. 
+> Sistema de vendas para lanchonete: app desktop com cards de produto para o atendente, e dashboard web em React para o gerente acompanhar vendas. *(em desenvolvimento)*
 
 **Stack:** Java · Spring Boot · JavaFX · React · MySQL · Flyway · JWT
 
