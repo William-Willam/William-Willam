@@ -151,7 +151,7 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
     <td width="50%" valign="top">
 
 ### 🍔 Sales Manager
-> Sistema de vendas para lanchonete: app desktop com cards de produto para o atendente, e dashboard web em React para o gerente acompanhar vendas. *(em desenvolvimento)*
+> Sistema de vendas para lanchonete: app desktop com cards de produto para o atendente, e dashboard web em React para o gerente acompanhar vendas. 
 
 **Stack:** Java · Spring Boot · JavaFX · React · MySQL · Flyway · JWT
 
