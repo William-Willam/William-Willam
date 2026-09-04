@@ -1,7 +1,7 @@
 <div align="center">
 
 # Olá, eu sou o William 👋
-### Desenvolvedor Full Stack | Java/Spring Boot · Angular/React · JavaFX · Embarcados
+### Full Stack | Java/Spring Boot · Angular/React · JavaFX · ESP32
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wsdr96/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williambfs2011@gmail.com)
@@ -9,19 +9,19 @@
 
 </div>
 
-> *Transformando conhecimento em soluções práticas através do desenvolvimento de software — do backend ao hardware.*
+> *Se o projeto precisa de API, tela web, app desktop ou até um ESP32 lendo GPS — eu quero entender como cada peça encaixa, não só fazer funcionar.*
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de Sistemas**. Construo sistemas completos do zero — API, frontend, cliente desktop e, quando o projeto pede, até firmware embarcado — sempre com foco em arquitetura limpa (Controller → Service → Repository), segurança desde o design e boas práticas de versionamento.
+Analista e Desenvolvedor de Sistemas formado, mas quem realmente me ensinou foi construir os projetos abaixo do zero — errando dialect do Hibernate, descobrindo na marra que `SessionCreationPolicy.STATELESS` quebra `@WithMockUser` nos testes, corrigindo senha em texto plano que eu mesmo deixei hardcoded num projeto antigo (DF-Vistoria) e nunca mais repetindo esse erro.
 
-Meu portfólio cobre uma combinação pouco comum: aplicações web tradicionais, clientes desktop em JavaFX e sistemas de geolocalização/IoT com ESP32 — da nuvem ao hardware.
+Gosto de projetos que me obrigam a sair da zona do CRUD: geolocalização com PostGIS no Guincho, fila FIFO de reserva na Biblioteca, ESP32 conversando com SIM800L num rastreador. Cada repo abaixo tem uma decisão de arquitetura por trás — e eu consigo explicar o porquê de cada uma.
 
-💼 Atualmente em Suporte Técnico N1 na Autotrac, também atuando em testes de sistema — buscando oportunidade como desenvolvedor.
+💼 Hoje trabalho com Suporte Técnico N1 na Autotrac e testes de sistema, construindo esses projetos nas horas livres pra migrar de vez pra desenvolvimento.
 
-📍 Brasília, DF — Brasil
+📍 Brasília, DF
 
 ---
 
@@ -54,32 +54,32 @@ Meu portfólio cobre uma combinação pouco comum: aplicações web tradicionais
 
 ## 🗂️ Projetos em destaque
 
-### 🚛 Projeto Guincho — Plataforma de assistência veicular
-Sistema de geolocalização em tempo real para conectar guinchos e solicitantes. Backend com PostGIS para consultas espaciais, PWA em Angular.
+### 🚛 Projeto Guincho
+Plataforma pra conectar quem precisa de um guincho a quem tá disponível na região, em tempo real. O desafio aqui não foi CRUD — foi modelar posição geográfica direito: banco com PostGIS, índices espaciais validados, entidades com `@MapsId` onde a localização é ao mesmo tempo chave e relação.
 **Stack:** Spring Boot · PostgreSQL/PostGIS · Hibernate Spatial (JTS) · Angular PWA
 [Repositório »](https://github.com/William-Willam/Projeto-Guincho)
 
-### 📚 Sistema Biblioteca — Gestão de biblioteca
-Sistema completo de empréstimos e reservas com fila FIFO, cálculo de multa e segurança JWT com refresh token em cookie httpOnly. Planejamento documentado com diagramas ER, casos de uso e sequência.
-**Stack:** Spring Boot · PostgreSQL · Angular · JWT
+### 📚 Sistema Biblioteca
+Antes de escrever uma linha de código, passei pela etapa de planejamento inteira: requisitos, ER, casos de uso, sequência — tudo documentado em `docs/` antes do primeiro commit de código. Decisões como fila de reserva em FIFO e multa fixa saíram dessa fase, não de tentativa e erro.
+**Stack:** Spring Boot · PostgreSQL · Angular · JWT com refresh em cookie httpOnly
 [Repositório »](https://github.com/William-Willam/biblioteca)
 
-### 🚗 AutoVistor — Gestão de vistoria veicular
-Sistema completo em três camadas: backend com módulo financeiro (pagamentos, boletos, notas fiscais) e geração de laudos em PDF, dashboard desktop em JavaFX e frontend web em React com fluxo completo de vistoria.
+### 🚗 AutoVistor
+O maior dos meus projetos até agora: três aplicações rodando junto (API, desktop, web) pra cobrir o fluxo real de uma empresa de vistoria — desde o agendamento até o boleto e o laudo em PDF saindo pronto pro cliente.
 **Stack:** Java 21 · Spring Boot 4 · JavaFX · React/TypeScript · MySQL · JWT · Flyway · PDFBox
 [Repositório »](https://github.com/William-Willam/ProjetoVistoria)
 
-### 📡 GPS Tracker — Rastreador veicular embarcado
-Rastreador com ESP32, módulo GPS NEO-6M, comunicação celular via SIM800L e acelerômetro MPU6050, com app de monitoramento planejado em JavaFX e módulo web com OpenStreetMap.
+### 📡 GPS Tracker
+Meu primeiro projeto saindo do software puro pra hardware. ESP32 lendo GPS NEO-6M, mandando posição via SIM800L (que aprendi na prática que puxa até 2A e não pode ser ligado direto no 3.3V do ESP32) e detectando movimento com o MPU6050.
 **Stack:** ESP32 · C++ · GPS NEO-6M · SIM800L · MPU6050
 
-### 🍔 Sales Manager — PDV para lanchonete
-Ponto de venda com três papéis de acesso (Admin, Gerente, Atendente), app desktop para atendimento e dashboard web para gestão.
+### 🍔 Sales Manager
+PDV pra lanchonete com três níveis de acesso — o atendente só vê o que precisa pra vender, o gerente enxerga o dashboard completo. Do requisito ao deploy, esse eu fechei sozinho de ponta a ponta.
 **Stack:** Spring Boot · JavaFX · React/TypeScript · MySQL
 [Repositório »](https://github.com/William-Willam/SalesManager)
 
 ### 💈 Sistema de Agendamento — Barbearia
-Sistema web completo de agendamento com cadastro de clientes, serviços e horários, e regras de negócio para evitar conflitos.
+Regra de negócio que parece simples (não deixar dois clientes marcarem o mesmo horário) mas que dá trabalho pra fazer direito quando envolve múltiplos serviços e profissionais.
 **Stack:** Spring Boot · Thymeleaf · MySQL
 [Repositório »](https://github.com/William-Willam/Barbearia)
 
