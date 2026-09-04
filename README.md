@@ -1,34 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=William%20dos%20Santos%20Rodrigues&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Java%20Developer&descAlignY=58&descSize=16&descColor=8892b0" width="100%"/>
-
-<br/>
+# Olá, eu sou o William 👋
+### Desenvolvedor Full Stack | Java/Spring Boot · Angular/React · JavaFX · Embarcados
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wsdr96/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williambfs2011@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/William-Willam)
 
-<br/>
-
-> *Transformando conhecimento em soluções práticas através do desenvolvimento de software.*
-
 </div>
+
+> *Transformando conhecimento em soluções práticas através do desenvolvimento de software — do backend ao hardware.*
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de Sistemas**. Meu aprendizado hoje é focado na prática: construo projetos completos com Java, Spring Boot, Angular, React e JavaFX, sempre com foco em arquitetura limpa, boas práticas e evolução contínua.
+Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de Sistemas**. Construo sistemas completos do zero — API, frontend, cliente desktop e, quando o projeto pede, até firmware embarcado — sempre com foco em arquitetura limpa (Controller → Service → Repository), segurança desde o design e boas práticas de versionamento.
+
+Meu portfólio cobre uma combinação pouco comum: aplicações web tradicionais, clientes desktop em JavaFX e sistemas de geolocalização/IoT com ESP32 — da nuvem ao hardware.
 
 💼 Atualmente em Suporte Técnico N1 na Autotrac, também atuando em testes de sistema — buscando oportunidade como desenvolvedor.
 
-📍 Ceilândia Norte — Brasília, DF
+📍 Brasília, DF — Brasil
 
 ---
 
 ## 🚀 Tecnologias
-
-<div align="center">
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -42,134 +39,64 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### DevOps & Cloud
+### Embarcados & IoT
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### DevOps & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
 ---
 
-## 🗂️ Projetos
+## 🗂️ Projetos em destaque
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### 🚛 Projeto Guincho — Plataforma de assistência veicular
+Sistema de geolocalização em tempo real para conectar guinchos e solicitantes. Backend com PostGIS para consultas espaciais, PWA em Angular.
+**Stack:** Spring Boot · PostgreSQL/PostGIS · Hibernate Spatial (JTS) · Angular PWA
+[Repositório »](https://github.com/William-Willam/Projeto-Guincho)
 
-### 🚗 AutoVistor
-> Sistema completo de vistoria veicular: backend Spring Boot com módulo financeiro (pagamentos, boletos, notas fiscais), desktop JavaFX para gerente/vistoriador e laudos em PDF.
+### 📚 Sistema Biblioteca — Gestão de biblioteca
+Sistema completo de empréstimos e reservas com fila FIFO, cálculo de multa e segurança JWT com refresh token em cookie httpOnly. Planejamento documentado com diagramas ER, casos de uso e sequência.
+**Stack:** Spring Boot · PostgreSQL · Angular · JWT
+[Repositório »](https://github.com/William-Willam/biblioteca)
 
-**Stack:** Java 21 · Spring Boot 4 · JavaFX · MySQL · JWT · Flyway · PDFBox
+### 🚗 AutoVistor — Gestão de vistoria veicular
+Sistema completo em três camadas: backend com módulo financeiro (pagamentos, boletos, notas fiscais) e geração de laudos em PDF, dashboard desktop em JavaFX e frontend web em React com fluxo completo de vistoria.
+**Stack:** Java 21 · Spring Boot 4 · JavaFX · React/TypeScript · MySQL · JWT · Flyway · PDFBox
+[Repositório »](https://github.com/William-Willam/ProjetoVistoria)
 
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/ProjetoVistoria)
+### 📡 GPS Tracker — Rastreador veicular embarcado
+Rastreador com ESP32, módulo GPS NEO-6M, comunicação celular via SIM800L e acelerômetro MPU6050, com app de monitoramento planejado em JavaFX e módulo web com OpenStreetMap.
+**Stack:** ESP32 · C++ · GPS NEO-6M · SIM800L · MPU6050
 
-  </td>
-    <td width="50%" valign="top">
+### 🍔 Sales Manager — PDV para lanchonete
+Ponto de venda com três papéis de acesso (Admin, Gerente, Atendente), app desktop para atendimento e dashboard web para gestão.
+**Stack:** Spring Boot · JavaFX · React/TypeScript · MySQL
+[Repositório »](https://github.com/William-Willam/SalesManager)
 
-### 📋 TaskFlow
-> Gerenciador de tarefas full stack com autenticação JWT e controle de acesso por papel de usuário.
+### 💈 Sistema de Agendamento — Barbearia
+Sistema web completo de agendamento com cadastro de clientes, serviços e horários, e regras de negócio para evitar conflitos.
+**Stack:** Spring Boot · Thymeleaf · MySQL
+[Repositório »](https://github.com/William-Willam/Barbearia)
 
-**Stack:** Java · Spring Boot 3 · Angular 17 · MySQL · JWT · Docker
+<details>
+<summary><strong>Outros projetos</strong></summary>
+<br>
 
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/TaskFlow)
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 👟 [ShoeStock](https://github.com/William-Willam/Calcados) | Estoque de calçados com API REST, desktop JavaFX e loja Angular | Spring Boot · JavaFX · Angular · PostgreSQL |
+| 📋 [TaskFlow](https://github.com/William-Willam/TaskFlow) | Gerenciador de tarefas com JWT e controle por papel de usuário | Spring Boot · Angular · MySQL · Docker |
+| ⛅ [Sistema Meteorológico](https://github.com/William-Willam/Sistema-Meterologico) | App desktop de clima com imagens dinâmicas por condição/período | JavaFX · OpenWeatherMap API · IBGE API |
+| 🚗 [DF-Vistorias](https://github.com/William-Willam/DF-Vistoria) | Vistorias veiculares — projeto de conclusão de curso | Java Swing · MySQL |
+| 🧮 [Calculadora](https://github.com/William-Willam/Calculadora) | Calculadora desktop com tema estilo iOS | JavaFX · Scene Builder |
+| 🐍 [Jogo da Cobra](https://github.com/William-Willam/JogodaCobra) | Snake game — exercício de lógica e OO | Java |
 
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 👟 ShoeStock
-> Sistema de estoque de calçados com API REST, desktop JavaFX para gestores e loja virtual Angular para clientes.
-
-**Stack:** Java 22 · Spring Boot · JavaFX · Angular 17 · PostgreSQL · JWT
-
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/Calcados)
-
-  </td>
-    <td width="50%" valign="top">
-
-### 💈 Barbearia
-> Sistema web de agendamento para barbearia, com cadastro de clientes, serviços e horários, e regras de negócio para evitar conflito de agendamento.
-
-**Stack:** Java · Spring Boot · Thymeleaf · MySQL
-
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/Barbearia)
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### ⛅ Sistema Meteorológico
-> Aplicação desktop que consulta o clima por cidade/estado no Brasil, com imagens de fundo dinâmicas conforme a condição climática e o período (dia/noite).
-
-**Stack:** Java · JavaFX · Scene Builder · OpenWeatherMap API · IBGE API
-
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/Sistema-Meterologico)
-
-  </td>
-    <td width="50%" valign="top">
-
-### 🧮 Calculadora
-> Calculadora desktop com interface no Scene Builder, tema visual estilo iOS e atalhos de teclado.
-
-**Stack:** Java · JavaFX · Scene Builder
-
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/Calculadora)
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🏥 Funerária Web
-> Sistema web para gestão e pedidos de serviços funerários.
-
-**Stack:** React · Node.js · Firebase
-
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/Projetos-Senac/tree/main/funerari-web)
-
-  </td>
-    <td width="50%" valign="top">
-
-### 🚗 DF-Vistorias
-> Sistema de vistorias veiculares com cadastro e persistência em banco de dados relacional — projeto de conclusão de curso.
-
-**Stack:** Java Swing · MySQL
-
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/DF-Vistoria)
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🍔 Sales Manager
-> Sistema de vendas para lanchonete: app desktop com cards de produto para o atendente, e dashboard web em React para o gerente acompanhar vendas. *(em desenvolvimento)*
-
-**Stack:** Java · Spring Boot · JavaFX · React · MySQL · Flyway · JWT
-
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/SalesManager)
-
-  </td>
-    <td width="50%" valign="top">
-
-### 🐍 Jogo da Cobra
-> Clássico snake game desenvolvido em Java como exercício de lógica e orientação a objetos.
-
-**Stack:** Java
-
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/William-Willam/JogodaCobra)
-
-  </td>
-  </tr>
-</table>
+</details>
 
 ---
 
@@ -177,11 +104,9 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
 
 <div align="center">
 
-<img height="160" src="https://streak-stats.demolab.com?user=William-Willam&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
+![Stats](https://streak-stats.demolab.com?user=William-Willam&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%20Y)
 
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/William-Willam" alt="Gráfico de contribuições de William" />
+![Gráfico de contribuições](https://ghchart.rshah.org/William-Willam)
 
 </div>
 
@@ -193,12 +118,5 @@ Sou desenvolvedor Full Stack com graduação em **Análise e Desenvolvimento de 
 2023  ──  Graduação em Análise e Desenvolvimento de Sistemas · Uniplan
 2025  ──  Aprofundamento em Full Stack Java, Angular, Docker e AWS
 2026  ──  Suporte Técnico N1 na Autotrac, atuando também em testes de sistema
+        ──  Expansão para geolocalização (PostGIS) e sistemas embarcados (ESP32)
 ```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
-
-</div>
